@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.Sample.Compassion", "Bot.Sample.Compassion\Bot.Sample.Compassion.csproj", "{E9E6408A-D871-4083-8E5C-F4661BB6F1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E6408A-D871-4083-8E5C-F4661BB6F1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E6408A-D871-4083-8E5C-F4661BB6F1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E6408A-D871-4083-8E5C-F4661BB6F1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E6408A-D871-4083-8E5C-F4661BB6F1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB95541-9F9F-4FD0-83C8-0DF6093B2BCD}
+	EndGlobalSection
+EndGlobal
